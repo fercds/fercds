@@ -9,11 +9,11 @@ Now I want to refresh my habilities as developer to combine the two professions 
 - 💬 Ask and tell me about healthcare, education, microlearning, soft skills and tecnologies
 
 - 📫 How to reach me:
-  Linkedin
-    https://www.linkedin.com/in/fernanda-cristina-dos-santos-8b733b41/
-  Github:
-    https://github.com/fercds
-  Rocketseat:
-    https://app.rocketseat.com.br/me/cdsfernanda-1612524440777
-  Instagram:
-    https://www.instagram.com/fercds/
+ - Linkedin
+https://www.linkedin.com/in/fernanda-cristina-dos-santos-8b733b41/
+ - Github:
+https://github.com/fercds
+ - Rocketseat:
+https://app.rocketseat.com.br/me/cdsfernanda-1612524440777
+ - Instagram:
+https://www.instagram.com/fercds/
